@@ -1,6 +1,8 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project. 
+# thread boi chrome extension
+### convert your blogs into tweet threads
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://buildspace.so/p/build-ai-writing-assistant-gpt3) and link your Discord account so you can get access to helpful channels and your instructor!
+this is a fun project that allows you to convert your blogs into tweets threads via a chrome extension that uses GPT-3. shoutout to [buildspace](https://twitter.com/_buildspace) for helping me make this and for just being awesome in general.
+
+let me know how you like it at [@paarugsethi](https://twitter.com/paarugsethi)
+
+hope this helps!
